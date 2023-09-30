@@ -1,3 +1,3 @@
-## Hi There 👋
-* [https://linkedin.com/in/jsoliveir](https://linkedin.com/in/jsoliveir)
-* [About me](./About.md)
+### José Oliveira
+* https://linkedin.com/in/jsoliveir
+* jsoliveira.dev@outlook.pt
