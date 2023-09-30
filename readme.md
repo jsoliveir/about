@@ -1,6 +1,6 @@
 # José Oliveira
 
-- [LinkedIn](https://linkedin.com/in/jsoliveir)
+- https://linkedin.com/in/jsoliveir
 - Email: jsoliveira.dev@outlook.pt
 
 ## About Me
