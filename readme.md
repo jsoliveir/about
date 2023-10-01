@@ -13,7 +13,7 @@
 
 ## Experience
 ### Azure Platform Engineer
-**Habitus Health** - Mar 2022 - Present (1 year 7 months)
+**Habitus Health** - Mar 2022 - Present
 > Orchestrated CI/CD pipelines leveraging GitOps principles for Kubernetes deployment.  
 > Designed and deployed scalable Azure cloud infrastructure from scratch.  
 > Monitored environments with Grafana Stack and Open Telemetry.  
@@ -42,7 +42,7 @@
 - Open Telemetry
 
 ### DevOps Engineer
-**Sbanken – et konsept fra DNB** - Feb 2020 - Present (3 years 8 months)
+**Sbanken – et konsept fra DNB** - Feb 2020 - Present
 > Collaborated with cross-functional teams on CI/CD pipelines and on-premises infrastructure deployment.  
 > Specialized in Kubernetes deployment using GitOps principles.  
 > Migrated GIT repositories to GitHub and Bitbucket Cloud.  
@@ -67,7 +67,7 @@
 - Splunk
 
 ### Back-end Software Developer
-**Sbanken – et konsept fra DNB** - Sep 2018 - Feb 2020 (1 year 6 months)
+**Sbanken – et konsept fra DNB** - Sep 2018 - Feb 2020
 > Developed SQL databases and microservices using C# .NET Core.  
 > Decomposed monolithic systems and contributed to product development.  
 > Participated in development initiatives and agile teams.  
@@ -79,13 +79,13 @@
 - RabbitMQ
 
 ### People Manager | Team Leader at Bankinter
-**Softinsa** - Dec 2017 - Sep 2018 (10 months)
+**Softinsa** - Dec 2017 - Sep 2018
 > Managed junior developers and ensured project profitability.  
 > Oversaw people's development career and basic project management tasks.  
 > Led development and support teams.  
 
 ### System Integration Engineer | Tech Lead at Bankinter
-**Softinsa** - Jan 2016 - Sep 2018 (2 years 9 months)
+**Softinsa** - Jan 2016 - Sep 2018
 > Designed functional and technical analysis for core banking systems.  
 > Developed and optimized databases, ETL processes, and BPM workflows.  
 > Provided technical and functional support for banking applications.  
@@ -100,7 +100,7 @@
 - Data Transformation Services (SSIS)
 
 ### Data Integration Engineer at Bankinter
-**Findmore Consulting, S.A.** - Feb 2015 - Apr 2016 (1 year 3 months)
+**Findmore Consulting, S.A.** - Feb 2015 - Apr 2016
 > Facilitated knowledge transfer and application ownership handover.  
 > Supported various business applications and optimized SQL Server databases.  
 > Developed ETL processes and business reports.  
@@ -133,7 +133,7 @@
 - TCP/IP Networking
 
 ### Full Stack Web Developer
-**RISA®#** - Mar 2014 - Feb 2015 (1 year)
+**RISA®#** - Mar 2014 - Feb 2015
 > Developed back-end services and full-stack web applications.
 > Worked on baggage management systems for airlines.
 > Developed add-ons for SAP Business One.
@@ -146,7 +146,7 @@
 - Linux-based Systems
 
 ### Software Developer
-**Sys4it** - Jan 2012 - Mar 2013 (1 year 3 months)
+**Sys4it** - Jan 2012 - Mar 2013
 > Developed POS systems and databases.  
 > Created software for ordering systems.  
 > Proficient in C#.NET, Windows Mobile, and WPF/XAML.  
